@@ -19,10 +19,9 @@
   border-radius: 15px;
   padding: 15px;
 }
-.h1{
-  padding-top: 100px;
+h1 {
+  text-shadow: 4px 4px 4px black;
 }
-
 .button{
   margin: 3px;
   width: 50px;
